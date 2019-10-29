@@ -1,7 +1,6 @@
 # ozm
-![]
-[![hackintosh]](https://www.hackintosh-forum.de/forum/thread/43396-ozmosis-mit-macos-catalina-10-15-oz167x-xmax-extended/)  
-[hackintosh]:https://www.hackintosh-forum.de/images/styleLogo-4b3d4b2e67573060c3491c8fe742448e3705accc.png "hackintoshLogo"  
+[![hackintosh]](https://www.hackintosh-forum.de/forum/thread/43396-ozmosis-mit-macos-catalina-10-15-oz167x-xmax-extended/) 
+[hackintosh]:https://raw.githubusercontent.com/guyezi/ozm/master/hackintosh.png "hackintoshLogo"  
 MacOS Catalina的新核心补丁：
 
 对于带有Ozmosis的MacOS Catalina的引导，原则上只要使用Oz-Xmax，就只需要更新核心补丁：
