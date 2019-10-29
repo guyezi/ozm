@@ -1,6 +1,6 @@
 # ozm
 
-[![](https://raw.githubusercontent.com/guyezi/ozm/master/hackintosh.png)](https://www.hackintosh-forum.de/forum/thread/43396-ozmosis-mit-macos-catalina-10-15-oz167x-xmax-extended)
+[![](https://raw.githubusercontent.com/guyezi/ozm/master/hapc/hapc.jpg)](https://www.hackintosh-forum.de/forum/thread/43396-ozmosis-mit-macos-catalina-10-15-oz167x-xmax-extended)
 
 
 ##MacOS Catalina的新核心补丁：
